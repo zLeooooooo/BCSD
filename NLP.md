@@ -14,7 +14,7 @@
   - 例如：年龄（18、30）
   - 例如：性别（Male、Female），但需转换为 0/1
 
-![image-20240920155234257](/NLP.assets/1.png)
+![image-20240920155234257](./NLP.assets/1.png)
 
 - Age、Gender 和 Nationality 组合合成 199 （1 + 1 + 197）维的向量
 
@@ -50,7 +50,7 @@
 - 目的
   - 将每个 Text 数字化
 
-![image-20240920155234257](/NLP.assets/2.png)
+![image-20240920155234257](./NLP.assets/2.png)
 
 
 
