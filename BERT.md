@@ -1,4 +1,9 @@
-# BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+| **标题** | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding |
+|----------|-------------------------------------------------------------------------------------|
+| **作者** | Jacob Devlin |
+| **机构** | Google AI Language  |
+| **会议** | NAACL 2019    |
+
 ![alt text](images/BERT.png)
 - Pre-training
   - 在大数据集上预先训练，然后用在目标任务中
