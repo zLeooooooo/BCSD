@@ -1,3 +1,9 @@
+| **标题** | Attention Is All You Need |
+|----------|-------------------------------------------------------------------------------------|
+| **作者** | Ashish Vaswani |
+| **机构** | Google Brain  |
+| **会议** | NIPS 2017    |
+
 # Abstract
 ![alt text](images/Transformer.png)
 - SOTA model是用 Encoder、Decode 和 Attention 的架构
